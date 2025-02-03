@@ -2,3 +2,19 @@ body{
     background-color: rgb(228, 203, 35);
     color: rgb(37, 21, 186);
 }
+
+input{
+    border: 2px solid black;
+}
+
+table{
+    border: 2px solid rgb(37, 21, 186);
+    border-radius: 10px;
+    padding: 8px;
+    margin: 22px;
+    background-color: bisque;
+}
+.btn{
+    border-radius: 5px;
+    border-color: black;
+}
