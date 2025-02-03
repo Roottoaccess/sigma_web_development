@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.red{
+    color: red;
+}
+/* #firstdiv{
+    background-color: pink;
+} */
+.bg-yellow{
+    background-color: yellow;
+}
