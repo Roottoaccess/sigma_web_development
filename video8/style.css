@@ -1,0 +1,24 @@
+p{
+    background-color: aquamarine;
+}
+a{
+    background-color: bisque;
+}
+/* div{
+    background-color: burlywood;
+} */
+.container{
+    /* background-color: cadetblue; */
+    color: rgb(54, 111, 8);
+}
+input{
+    border-color: blue;
+    border-radius: 10px;
+}
+table{
+    border: 2px solid red;
+    background-color: bisque;
+}
+span{
+    background-color: rgb(191, 148, 232);
+}
