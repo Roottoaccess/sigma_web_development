@@ -1,0 +1,45 @@
+/* Universal selecter */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Class selecter */
+.container{
+    background-color: orange;
+}
+
+/* ID selecter */
+#green{
+    background-color: green;
+}
+
+/* Clild selecter */
+div > p {
+    color: bisque;
+    background-color: brown;
+}
+
+/* This above child selecter will only work if there is para inside the div otherwise not !! */
+/* Decendant Selector */
+div p{
+    color: blue;
+    background-color: bisque;
+}
+
+/* Pseudo Selecter */
+a:visited{
+    color: rgb(241, 15, 15);
+}
+a:link{
+    color: green;
+}
+a:active{
+    background-color: aquamarine;
+}
+a:hover{
+    background-color: rgb(250, 246, 54);
+}
+p:first-child{
+    background-color: bisque;
+}
