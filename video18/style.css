@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: aqua;
+}
+.cpurple{
+    color: purple;
+}
+.cred{
+    color: red;
+}
+.yellow{
+    color: yellow;
+}
+
+[data-x=a]{
+    background-color: red;
+}
+
+/* Css have an algorithm cascade algorithm */
+/* 
+inline
+id 
+attribute selecter
+*/
