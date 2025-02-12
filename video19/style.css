@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* text-decoration: underline; */
+    font-weight: 500;
+    color: chartreuse;
+    border: 2px solid greenyellow;
+    padding: 12px;
+    text-align: center;
+    border-radius: 20px;
+    width: 80vw;
+    box-sizing: border-box;
+    margin:25px auto;
+}
+.box{
+    border: 2px solid green;
+    box-sizing: border-box;
+    width: 88vw; 
+    color: #ffffff;
+    padding: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 24px auto;
+}
+.container{
+        border: 2px solid green;
+        box-sizing: border-box;
+        width: 88vw;
+        min-height: 20vw;
+        color: white;
+        padding: 12px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin: 24px auto;
+        font-size: 16px;
+}
+.container p{
+    font-size: 2rem; /* 2 guna */
+}
+.mycont{
+    box-sizing: border-box;
+    border: 2px solid green;
+    margin: 24px auto;
+    color: red;
+    font-size: 22px;
+    width: 50%;
+    padding: 12px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-transform: capitalize;
+}
+.mycont > div{
+    margin-top: 5px;
+    width: 50%;
+    border: 2px solid green;
+}
