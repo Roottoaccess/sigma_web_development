@@ -1,0 +1,12 @@
+*{
+    background-color: blanchedalmond;
+}
+nav ul li{
+    list-style: bengali;
+    background-color: yellow;
+    /* list-style-position: inside; */
+    border: 2px solid black;
+    /* list-style-image: url("image.gif"); */
+    /* height: 320px; */
+    list-style-type: "🚀";
+}
