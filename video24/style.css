@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    height: 100px;
+    width: 80vw;
+    border: 2px solid black;
+    padding: 3px;
+    margin: 3px;
+}
+.box1{
+    background-color: aqua;
+    position: relative;
+    z-index: 1;
+}
+.box2{
+    background-color: blanchedalmond;
+    position: relative;
+    bottom: 50px;
+    left: 32px;
+}
+.box3{
+    background-color: brown;
+}
+.box4{
+    background-color: chartreuse;
+}   
